@@ -67,5 +67,5 @@ esac
 ### Running
 
 ```sh
-./cmd.sh
+./cmd.sh <subcommand>
 ```
